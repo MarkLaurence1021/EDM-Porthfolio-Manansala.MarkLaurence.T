@@ -19,7 +19,7 @@ In this task, we are provided with raw Excel data to clean and prepare for Power
 - Apply Third Normal Form (3NF).  
 - Map the normalized tables into a Physical Data Model.
 ### Step 3: Here's the screenshot of my output before I started data cleaning (SEE screenshot)
-![](MidTermLab1/Task%201%20image/ScreenshotOfEdm.png)
+![](Task%201%20image/ScreenshotOfEdm.png)
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (SEE screenshot)
 
 ## Here's the finish work
