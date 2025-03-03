@@ -21,5 +21,9 @@ In this task, we are provided with raw Excel data to clean and prepare for Power
 ### Step 3: Here's the screenshot of my output before I started data cleaning (SEE screenshot)
 ![](Task%201%20image/ScreenshotOfEdm.png)
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (SEE screenshot)
-
+![](Task%201%20image/EDMScreenShot.png)
 ## Here's the finish work
+- NormalizeFile
+  [NormalizeFile](Task%201%20File/Normalized1.Mark.xlsx)
+- Finishfile
+ [FinishFile](Task%201%20File/finished.Mark.xlsx)
